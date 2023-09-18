@@ -10,7 +10,7 @@ body {
     background-color:antiquewhite;
 }
 
-table {
+#buttons-table {
     background-color:grey;
 }
 
@@ -22,21 +22,15 @@ table {
     width:250px;
     height:300px;
     float:left;
-    margin-bottom:5px;
-    margin-left:5px;
 }
 
 #skiing-image {
     width:250px;
     height:300px;
-    margin-left:125px;
-    margin-bottom:5px;
 }
 
 #baseball-image {
     width:250px;
     height:300px;
     float:right;
-    margin-bottom:5px;
-    margin-right:40px;
 }
